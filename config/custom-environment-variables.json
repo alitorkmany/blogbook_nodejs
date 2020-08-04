@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "blogbook_jwtPrivateKey",
+    "mailAddress": "MAIL_ADDRESS",
+    "mailPassword": "MAIL_PASSWORD"
+}

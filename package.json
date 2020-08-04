@@ -1,0 +1,31 @@
+{
+  "name": "node_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "v12.16.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "config": "^3.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fawn": "^2.1.5",
+    "joi": "^14.3.1",
+    "joi-objectid": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.2",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.5",
+    "socket.io": "^2.3.0",
+    "winston": "^3.2.1"
+  }
+}
